@@ -125,7 +125,7 @@ const ContextProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            Origin: "http://localhost:3001",
+            Origin: "*",
           },
           body: JSON.stringify(body),
         }
