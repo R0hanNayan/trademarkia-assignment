@@ -7,8 +7,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/my-trademark-app.git
-   cd my-trademark-app
+   git clone https://github.com/R0hanNayan/trademarkia-assignment.git
+   cd trademarkia-assignment
    ```
 2. Install the dependencies:
 
